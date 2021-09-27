@@ -1,0 +1,16 @@
+{
+    "name": "PWA Sederhana Sekali",
+    "short_name": "PWA",
+    "description": "Membuat PWA Sederhana",
+    "icons": [
+        {
+            "src": "../images/favicon.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/PWA/assets/",
+    "display": "fullscreen",
+    "theme_color": "#007aff",
+    "background_color": "#007aff"
+}
